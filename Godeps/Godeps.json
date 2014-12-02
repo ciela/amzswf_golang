@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/ciela/amzswf_golang",
+	"GoVersion": "go1.3.1",
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/goprotobuf/proto",
+			"Comment": "go.r60-163",
+			"Rev": "9352842ae63ee1d7e74e074ce7bb10370c4b6b9e"
+		},
+		{
+			"ImportPath": "github.com/bmizerany/aws4",
+			"Rev": "5fb2e72396263668edd9a2956052e402cf6c104a"
+		},
+		{
+			"ImportPath": "github.com/sclasen/swf4go",
+			"Rev": "a13a24ae662392dd83d1e663f42d056102bf7eea"
+		}
+	]
+}
